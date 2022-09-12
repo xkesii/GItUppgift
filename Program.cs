@@ -1,12 +1,12 @@
-﻿testtesttesttest
+﻿string testtesttesttest;
+
+    int b = 5;
 
 
+int vvtesttesttesttest;
+
+int bsttest;
 
 
-
-    vvtesttesttesttest;
-
-vtesttesttesttest
-
-
-    vtesttest
+   int vtesttest
+;
